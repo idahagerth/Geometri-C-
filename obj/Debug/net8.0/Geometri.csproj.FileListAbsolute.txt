@@ -1,0 +1,14 @@
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/bin/Debug/net8.0/Geometri
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/bin/Debug/net8.0/Geometri.deps.json
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/bin/Debug/net8.0/Geometri.runtimeconfig.json
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/bin/Debug/net8.0/Geometri.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/bin/Debug/net8.0/Geometri.pdb
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.AssemblyInfoInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.AssemblyInfo.cs
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.csproj.CoreCompileInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/refint/Geometri.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.pdb
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/Geometri.genruntimeconfig.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 3/Geometri/obj/Debug/net8.0/ref/Geometri.dll
